@@ -3,4 +3,6 @@ Add some text on Alice file.
 Long time no see, Alice.
 Add some text for rebasing merge.
 Add another text.
+update Alice file on remote.
+add more text on remote.
 
