@@ -2,4 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Add some text on Alice file.
 Long time no see, Alice.
 Add some text for rebasing merge.
+Add another text.
 
